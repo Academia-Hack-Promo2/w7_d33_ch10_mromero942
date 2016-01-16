@@ -39,12 +39,12 @@ consumer = Consumer.new()
 
 print consumer.add ({ 
   username: "@mari",
-  fullname: "Maria Romero",
+  fullname: "MR",
   address: "El silencio",
-  email: "mariiromero17@gmail.com",
-  phone: "04125898626",
+  email: "m7@gmail.com",
+  phone: "000000000",
   gender: "female",
-  identity: "22017942"
+  identity: "111111111"
   });
 
 
